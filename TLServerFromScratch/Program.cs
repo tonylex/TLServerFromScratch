@@ -1,9 +1,12 @@
-﻿namespace TLServerFromScratch;
+﻿using System.Net;
+using System.Net.Sockets;
+
+namespace TLServerFromScratch;
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        TcpListener listner = new TcpListener(IPAddress.Any, 80);
     }
 }
 
