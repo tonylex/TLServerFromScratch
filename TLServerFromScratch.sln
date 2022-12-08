@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLServerFromScratch", "TLServerFromScratch\TLServerFromScratch.csproj", "{E1ACFAF9-276C-4B8C-B1C5-D8EB16D7BE23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1ACFAF9-276C-4B8C-B1C5-D8EB16D7BE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1ACFAF9-276C-4B8C-B1C5-D8EB16D7BE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1ACFAF9-276C-4B8C-B1C5-D8EB16D7BE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1ACFAF9-276C-4B8C-B1C5-D8EB16D7BE23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAB6F3C-ED7F-4C8A-B699-316E9C588371}
+	EndGlobalSection
+EndGlobal
